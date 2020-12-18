@@ -1,0 +1,15 @@
+{
+  "name": "promise-practice",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start-cli": "live-server ."
+  },
+  "author": "tmc",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.19.2",
+    "jquery": "^3.4.1"
+  }
+}
